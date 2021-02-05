@@ -1,3 +1,5 @@
+https://botlist.space/bot/800358797402832906/badge?property=username&style=social&color=green
+
 Bernkastel offers:
 *   Support for commands in direct messages.
 *   Guild configuration (prefix, ignored channels, etc...)
