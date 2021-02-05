@@ -11,7 +11,7 @@ First of all, make sure you have downloaded:
  * [git](https://git-scm.com/) (optional).
 
 Now, clone this repository by
-downloading or running the command `git clone https://github.com/Spiderjockey02/Discord-Bot.git`.
+downloading or running the command `git clone https://github.com/tokisakikurumi01/bernkastelbot`.
 
 Next run the following commands:
 ```
