@@ -1,5 +1,5 @@
 ## Self hosting the bot
-Want to host the bot yourself, if not [invite him](https://discord.com/oauth2/authorize?response_type=code&client_id=647203942903840779&permissions=8&scope=bot)?
+Want to host the bot yourself, if not [invite him](https://discord.com/api/oauth2/authorize?client_id=800358797402832906&permissions=1878994935&scope=bot)?
 
 >Support will only be given on errors done by the base source code. (No edits to the code.)
 ### Installation
