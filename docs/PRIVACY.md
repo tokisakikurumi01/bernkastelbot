@@ -31,5 +31,5 @@ It is recommended to inform users of your Discord guild that the bot may collect
 
 
 if you need help, please contact me at email rickygiovanni01@gmail.com
-or discord RickyGiovanni # 2963
+or discord RickyGiovanni#2963
 and Steam https://steamcommunity.com/id/MeldyRisma/
