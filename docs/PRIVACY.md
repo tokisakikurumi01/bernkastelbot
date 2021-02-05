@@ -28,3 +28,8 @@ _(Note that this list may not be complete. If marked with a asterisk_ (`*`) _the
 I, ***RickyGiovanni***, (as the bot developer) _will not be liable or responsible for damages of_ ***any*** _kind_ (including, without limitation, damages caused, loss of information or data, or any other indirect, incidental, special or consequential damages) arising out of the use of this bot, even if advised of the possibility of such damages.
 
 It is recommended to inform users of your Discord guild that the bot may collect their **END USER DATA**.
+
+
+if you need help, please contact me at email rickygiovanni01@gmail.com
+or discord RickyGiovanni # 2963
+and Steam https://steamcommunity.com/id/MeldyRisma/
